@@ -1,18 +1,18 @@
 # gitminer
 ```
- + Original Author: Danilo Vaz a.k.a. UNK
- + Modified by: password123456
+ + Original Author: Danilo Vaz a.k.a. UNK / https://github.com/UnkL4b/GitMiner
+ + Modified by password123456
  + Github: https://github.com/password123456
 ```
 
 ### DESCRIPTION
 ```
-Some day at 2016.09
-Github improve searching code for much more Security. 
-Since then Original Gitminer does not support.
-so ed
-
-i hope use this for more code security and Education purpose Only
+One day in 2016.09, Github improved the methods of search code for much more Security. 
+Since then, Original Gitminer does not work.
+so i search for the cause of not work, and modified some code in original gitminer.
+i hope you use this to detect the code leakage and to purpose of education.
+i declare this code cannot be used for any other purposes.
+if you something to happen to have improper violation, i have no responsibility.
 ```
 ## WARNING
 ```
