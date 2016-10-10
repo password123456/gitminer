@@ -10,6 +10,9 @@
 Some day at 2016.09
 Github improve searching code for much more Security. 
 Since then Original Gitminer does not support.
+so ed
+
+i hope use this for more code security and Education purpose Only
 ```
 ## WARNING
 ```
