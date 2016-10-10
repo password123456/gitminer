@@ -1,0 +1,4 @@
+filename:wp-config extension:php FTP_HOST in:file
+filename:configuration extension:php "public password" in:file
+filename:shadow path:etc
+extension:php "root" in:file AND "gov.br" in:file
